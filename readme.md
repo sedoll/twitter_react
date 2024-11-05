@@ -119,3 +119,15 @@ npm install firebase@10.1.0
 
 4. sdk 추가 <br>
 ![](./img/firebase_start/sdk.png) <br><br>
+
+## 3강
+### firebase 인증
+
+1. 인증 클릭 <br>
+![](./img/firebase_auth/스크린샷%202024-11-05%20190330.png) <br>
+2. 이메일/비밀번호 클릭 <br>
+![](./img/firebase_auth/스크린샷%202024-11-05%20190400.png) <br>
+3. 사용설정 클릭 <br>
+![](./img/firebase_auth/스크린샷%202024-11-05%20190453.png) <br>
+4. 완료 <br>
+![](./img/firebase_auth/스크린샷%202024-11-05%20190500.png) <br>
